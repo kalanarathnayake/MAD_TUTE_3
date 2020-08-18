@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnSub">/</string>
+    <string name="btnMulty">*</string>
+
+
+</resources>
